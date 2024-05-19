@@ -1,0 +1,39 @@
+div {
+    border-radius: 50%;
+    /* border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent; */
+    border: 20px solid white;
+    display: inline-block;
+    min-width: 12em;
+    min-height: 14em;
+
+}
+
+#Red {
+    border-top-color: red;
+}
+
+#Orange {
+    border-top-color: orange;
+}
+
+#Yellow {
+    border-top-color: yellow;
+}
+
+#Green {
+    border-top-color: green;
+}
+
+#Blue {
+    border-top-color: blue;
+}
+
+#Indigo {
+    border-top-color: indigo;
+}
+
+#Violet {
+    border-top-color: violet;
+}
